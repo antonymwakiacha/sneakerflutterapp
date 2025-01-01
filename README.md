@@ -1,3 +1,3 @@
 # sneakerapp
 
-Sneaker app built by flutter framwework
+Sneaker ecommerce app built by flutter framwework that displays sneakers
